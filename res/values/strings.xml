@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unclouded Messenger</string>
+    <string name="title_activity_messenger">MessengerActivity</string>
+        
+    <string name="action_go_offline">Go Offline</string>
+    <string name="action_go_online">Go Online</string>
+    
+    <string name="enter_name">Please enter your name</string>
+    <string name="enter">Enter</string>
+    
+    <string name="send_short">>></string>
+
+</resources>
